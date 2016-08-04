@@ -1,0 +1,37 @@
+_repo: The-Rosary_3659
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barclay, Florence L. (Florence Louisa)
+    aliases:
+    - Roy, Brandon
+    - Barclay, Florence Louisa (Charlesworth), Mrs.
+    birthdate: 1862
+    deathdate: 1921
+    gutenberg_agent_id: '1253'
+    url: http://www.gutenberg.org/2009/agents/1253
+    wikipedia: http://en.wikipedia.org/wiki/Florence_L._Barclay
+description: "The Rosary is a novel by Florence L. Barclay. It was first published\
+  \ in 1909 by G.P. Putnam's Sons and was a bestselling novel for many years running,\
+  \ reaching the number one spot in 1910.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3659'
+  wikidata: Q7761530
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artists -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Rich people -- Fiction'
+- !lcsh 'England -- Fiction'
+- GITenberg
+title: The Rosary
+url: http://www.gutenberg.org/ebooks/3659
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Rosary_(novel)
